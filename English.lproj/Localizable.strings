@@ -1,0 +1,12 @@
+"RosterMissing" = "Couldn't locate Ultima III's roster of characters.
+
+This probably means that Ultima III v2.0 or later has never been run on %@'s account.";
+"RosterOpen" = "Couldn't open Ultima III's roster of characters.
+
+If Ultima III is currently running, you'll need to quit out and relaunch this editor.";
+"Quit" = "Quit";
+"NoWriteRoster" = "Couldn't write Ultima III's character roster.
+
+If Ultima III is currently running, you'll need to cancel, quit Ultima III, then try closing this editor again.";
+"Cancel" = "Cancel";
+"QuitAnyway" = "Quit Anyway";
